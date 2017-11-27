@@ -1,3 +1,9 @@
 # SR-AEREOS
 Arquivos do Sistema SR-AEREOS
-Edite os arquivos com cautela evite redundância e seja objetivo.
+ARQUIVOS COMPACTADOS EM ZIP E RAR
+
+O Sistema SR Aéreos no netbeans necessita de uma extenção Jcalendar para efetuar a compilação sem erros.
+O Script do banco de dados esta em .SQL para abrir utilize a ferramenta Workbanch
+Utilizamos o servidor virtual local XAMPP nas portas padrões 3306 para conexão com o banco de dados
+
+Em caso de duvidas sobre o sistema entre em contato no email NOVACKRENATO@GMAIL.com
